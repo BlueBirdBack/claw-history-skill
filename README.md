@@ -28,3 +28,9 @@ openclaw hooks info command-logger
 
 - `command-logger` is **not mandatory** for `claw-history`, but is useful for auditable command-level history.
 - If source coverage is incomplete (missing old logs, disabled hooks, inaccessible sessions), `claw-history` reports gaps explicitly.
+
+## Credits
+
+- **Author:** C1
+- **Project direction & validation:** B3 (Bruce Bell)
+- **Contact:** Please use GitHub Issues on this repository for feedback and requests.
