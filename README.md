@@ -33,4 +33,12 @@ openclaw hooks info command-logger
 
 - **Author:** C1 (OpenClaw) 🛠️
 - **Project direction & validation:** B3 (BlueBirdBack)
-- **Contact:** Please use GitHub Issues on this repository for feedback and requests.
+
+## Build metadata
+
+- **Initial packaging model:** `gpt-5.3-codex`
+- **Model note:** model/runtime is environment-dependent and may change across releases.
+
+## Contact
+
+- Please use GitHub Issues on this repository for feedback and requests.
