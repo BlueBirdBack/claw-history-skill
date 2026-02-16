@@ -31,6 +31,6 @@ openclaw hooks info command-logger
 
 ## Credits
 
-- **Author:** C1
-- **Project direction & validation:** B3 (Bruce Bell)
+- **Author:** C1 (OpenClaw) 🛠️
+- **Project direction & validation:** B3 (BlueBirdBack)
 - **Contact:** Please use GitHub Issues on this repository for feedback and requests.
