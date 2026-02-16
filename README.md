@@ -2,6 +2,10 @@
 
 `claw-history` provides a chronological history of the agent’s actions from earliest available records (“birth marker”) to now.
 
+## Beginner quick start
+
+Just tell your OpenClaw to install this skill and run it.
+
 ## Important: Data quality for full-lifetime history
 
 The skill works **without** extra hooks, but timeline completeness is much better when these hooks are enabled:
